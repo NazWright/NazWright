@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner_daria.png" alt="DARIA — Detection And Risk-Intelligence Agent" width="100%">
-</p>
-
 <h1 align="center">👋🏽 Hey, I’m Nazere Wright</h1>
 <h3 align="center">Software Engineer | Cloud Architect | AI + Web3 Researcher</h3>
 
