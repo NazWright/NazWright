@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner_daria.png" alt="DARIA — Detection And Risk-Intelligence Agent" width="100%">
+</p>
+
 <h1 align="center">👋🏽 Hey, I’m Nazere Wright</h1>
 <h3 align="center">Software Engineer | Cloud Architect | AI + Web3 Researcher</h3>
 
@@ -56,4 +61,44 @@ Currently architecting **DARIA** — the *Detection And Risk-Intelligence Agent*
 
 #### 🔗 Web3 & Data  
 ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white&style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-)
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?logo=bitcoin&logoColor=orange&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+
+---
+
+### 🧬 Current Focus  
+
+- 🧠 **DARIA (Fraud Signal Detector)** → ML + Blockchain fusion for real-time fraud detection  
+- ☁️ **AWS ML Engineer Certification Path** — deep diving SageMaker, EMR, Kinesis, Bedrock  
+- 🧱 **DareDevTech Ventures** — building a myth-driven ecosystem for creative engineers  
+- 🪙 **Crypto & Trading Research** — blending AI, technical analysis, and psychology  
+
+---
+
+### 🪞 Philosophy  
+
+> *"Engineering isn’t just logic — it’s choreography. Every system has rhythm, every decision has style."*  
+
+I write code like poetry and design infrastructure like sculpture.  
+For me, expression and engineering are the same muscle — both are about **precision, adaptability, and flow.**
+
+---
+
+### 🌐 Connect  
+
+📍 Website: [daredevtech.com](https://daredevtech.com)  
+📚 Learning Hub: [learn.daredevtech.com](https://learn.daredevtech.com)  
+🐦 X (Twitter): [@daredevtech](https://x.com/daredevtech)  
+💼 LinkedIn: [Nazere Wright](https://www.linkedin.com/in/nazere-wright-970a902ab/)  
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/©%202025%20Nazere%20Wright%20|%20DareDevTech%20Ventures-7E5CEB?style=for-the-badge">
+</p>
+
+<p align="center">
+  <i>Where myth meets machine ⚡️</i>
+</p>
