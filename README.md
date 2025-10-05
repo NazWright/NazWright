@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <b>“I build apps on the cloud and stack sol on the side.” ☁️ ₿</b>
+  <b>“I build apps on the cloud and stack sol on the side.” ☁️ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/solana.svg" alt="Solana Logo" width="40" height="40"/>
+</b>
 </p>
 
 <p align="center">
