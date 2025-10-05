@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>“I build apps on the cloud and stack sats on the side.” ☁️ ₿</b>
+  <b>“I build apps on the cloud and stack sol on the side.” ☁️ ₿</b>
 </p>
 
 <p align="center">
