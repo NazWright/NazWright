@@ -10,11 +10,6 @@
 </p>
 
 <p align="center">
-  <b>“I build apps on the cloud and stack sol on the side.” ☁️ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/solana.svg" alt="Solana Logo" width="40" height="40"/>
-</b>
-</p>
-
-<p align="center">
   <a href="https://x.com/daredevtech" target="_blank">
     <img src="https://img.shields.io/badge/follow%20@daredevtech-1DA1F2?logo=x&style=for-the-badge" alt="Follow @daredevtech on X">
   </a>
