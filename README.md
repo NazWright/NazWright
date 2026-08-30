@@ -2,12 +2,6 @@
 <h3 align="center">Software Engineer | Cloud Architect | AI + Web3 Researcher</h3>
 
 <!-- Profile Photo -->
-<p align="center">
-  <img src="https://github.com/NazWright/NazWright/blob/main/IMG_3952.jpeg" 
-       alt="Nazere Wright - DareDevTech" 
-       width="200" 
-       style="border-radius: 50%; border: 2px solid #7E5CEB; box-shadow: 0 0 20px rgba(126,92,235,0.4);">
-</p>
 
 <p align="center">
   <a href="https://x.com/daredevtech" target="_blank">
