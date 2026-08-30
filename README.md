@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽 Hey, I’m Nazere Wright</h1>
+<h1 align="center">👋🏽 hey, im navi</h1>
 <h3 align="center">Software Engineer | Cloud Architect | AI + Web3 Researcher</h3>
 
 <!-- Profile Photo -->
