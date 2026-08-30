@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://x.com/daredevtech" target="_blank">
-    <img src="https://img.shields.io/badge/follow%20@daredevtech-1DA1F2?logo=x&style=for-the-badge" alt="Follow @daredevtech on X">
+    <img src="https://img.shields.io/badge/follow%20@navirevenge-1DA1F2?logo=x&style=for-the-badge" alt="Follow @daredevtech on X">
   </a>
 </p>
 
