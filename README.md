@@ -77,11 +77,7 @@ For me, expression and engineering are the same muscle — both are about **prec
 ---
 
 ### 🌐 Connect  
-
-📍 Website: [daredevtech.com](https://daredevtech.com)  
-📚 Learning Hub: [learn.daredevtech.com](https://learn.daredevtech.com)  
-🐦 X (Twitter): [@daredevtech](https://x.com/daredevtech)  
-💼 LinkedIn: [Nazere Wright](https://www.linkedin.com/in/nazere-wright-970a902ab/)  
+🐦 X (Twitter): [@navirevenge](https://x.com/navirevenge)  
 
 ---
 
